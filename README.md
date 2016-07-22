@@ -50,6 +50,7 @@ All queries are generated from `app/models/queries.rb`.
 
 * This is a single player game because the SQL query is stored in a global variable.
 
+
 ## License
 
 This code is made available under the MIT license.
