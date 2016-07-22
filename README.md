@@ -15,13 +15,13 @@ rake db:migrate db:seed
 
 ### Run
 
-Typical Rails start: 
+Typical Rails start:
 
 ```
 rails s
 ```
 
-Open up [localhost:3000](http://localhost:3000) in a browser. 
+Open up [localhost:3000](http://localhost:3000) in a browser.
 
 ### Reset Database
 
