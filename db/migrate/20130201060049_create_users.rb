@@ -6,7 +6,7 @@ class CreateUsers < ActiveRecord::Migration
       t.integer :age
       t.boolean :admin
 
-      t.timestamps
+      t.timestamps null: true
     end
   end
 end
