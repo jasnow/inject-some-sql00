@@ -161,7 +161,7 @@ DEPENDENCIES
   rails (= 4.2.7.1)
   rails-perftest
   rdiscount
-  ruby-prof
+  ruby-prof (= 0.15.9)
   sass-rails
   sqlite3
   test-unit
