@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.2.7.1'
+gem 'rails', '4.2.8.rc1'
 gem 'protected_attributes' # For Rails 4.
 gem 'rails-perftest' # Need for Rails 4+.
 gem 'ruby-prof', '0.15.9' # Need for Rails 4+. # LOCKED DOWN
