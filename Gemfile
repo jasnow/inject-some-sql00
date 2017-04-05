@@ -21,7 +21,7 @@ group :assets do
   gem 'therubyracer', :platforms => :ruby
 
   gem 'twitter-bootstrap-rails'
-  gem 'less-rails'
+  gem 'less-rails', git: 'https://github.com/MustafaZain/less-rails' # LOCKED DOWN
   gem 'uglifier'
 end
 

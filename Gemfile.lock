@@ -1,3 +1,13 @@
+GIT
+  remote: https://github.com/MustafaZain/less-rails
+  revision: 946213803a5b274260dad17526eb201230e4a761
+  specs:
+    less-rails (2.8.1)
+      actionpack (>= 4.0)
+      less (~> 2.6.0)
+      sprockets (> 2, < 4)
+      tilt
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -58,11 +68,6 @@ GEM
       thor (>= 0.14, < 2.0)
     less (2.6.0)
       commonjs (~> 0.2.7)
-    less-rails (2.8.0)
-      actionpack (>= 4.0)
-      less (~> 2.6.0)
-      sprockets (> 2, < 4)
-      tilt
     libv8 (3.16.14.19)
     loofah (2.0.3)
       nokogiri (>= 1.5.9)
@@ -151,7 +156,7 @@ DEPENDENCIES
   coderay
   coffee-rails
   jquery-rails
-  less-rails
+  less-rails!
   pg
   protected_attributes
   rails (= 4.2.8)
