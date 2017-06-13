@@ -80,7 +80,7 @@ GEM
     minitest (5.10.2)
     nokogiri (1.8.0)
       mini_portile2 (~> 2.2.0)
-    pg (0.20.0)
+    pg (0.21.0)
     power_assert (1.0.2)
     protected_attributes (1.1.4)
       activemodel (>= 4.0.1, < 5.0)
